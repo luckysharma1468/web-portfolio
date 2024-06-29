@@ -10,7 +10,7 @@ const projects = [
     {
         id: 0,
         name: "Encrypto & Decrypto",
-        language: "React JS | Redux | BootStrap - 5",
+        language: "React JS | Redux | Tailwind CSS",
         image: encryptoDecrypto,
         summary: `A website that can be used to encrypt and decrypt text using 15
                 different algorithms, helping you maintain your privacy.
