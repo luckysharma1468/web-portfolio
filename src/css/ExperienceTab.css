@@ -1,0 +1,35 @@
+.experience-tab {
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(255, 109, 5, 0.811);
+    cursor: pointer;
+}
+
+.job-tile {
+    font-weight: 660;
+}
+
+.company-name {
+    font-weight: 400;
+}
+
+.duration {
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.horizontal-line {
+    height: 3px !important;
+    background: orange;
+    width: 50%;
+}
+
+.horizontal-line-selected {
+    background: white;
+    width: 100%;
+    transition: width 1s ease;
+}
+
+.experience-tab-selected {
+    color: white;
+    background: -webkit-linear-gradient(#FFBE0B, #F42B03);
+}

@@ -1,0 +1,26 @@
+.main {
+    background-image: url("../assets/myImage.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 760px;
+    width: 100%;
+}
+
+.hey {
+    font-weight: 700;
+}
+
+.name {
+    font-weight: 800;
+    background: -webkit-linear-gradient(#12100E, #2B4162);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    @media screen and (min-width: 720px) {
+        font-size: 52px;
+    }
+}
+
+.intro-text {
+    font-weight: 300;
+}
+

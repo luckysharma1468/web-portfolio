@@ -1,0 +1,15 @@
+.myIndicators {
+    bottom: -50px;
+}
+
+.my-control-prev {
+    @media screen and (min-width: 720px) {
+        left: -84px;
+    }
+}
+
+.my-control-next {
+    @media screen and (min-width: 720px) {
+        right: -64px;
+    }
+}

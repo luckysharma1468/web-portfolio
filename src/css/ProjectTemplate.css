@@ -1,0 +1,29 @@
+.project-template {
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(255, 109, 5, 0.811);
+}
+
+.project-image {
+    width: 280px;
+    height: 200px;
+}
+
+.project-description {
+    width: 400px;
+    height: 250px;
+    text-align: justify;
+    font-weight: 300;
+}
+
+.project-heading {
+    color: rgba(255, 109, 5, 0.811);
+    font-weight: 800;
+}
+
+.language {
+    color: rgba(255, 109, 5, 0.811);
+}
+
+.image-section {
+    text-align: center;
+}
