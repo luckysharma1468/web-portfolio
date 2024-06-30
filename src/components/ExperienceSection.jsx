@@ -28,21 +28,20 @@ export default function ExperienceSection() {
         {
             id: 0,
             summary: [
-                "Architected a react storybook from scratch and integrated in a legacy project, achieving a 40% reduction in development time by streamlining UI component design and tracking changes according to user stories.",
-                "Revitalized the mobile application in the current project by introducing 5 new screens, resulting in optimized user experience and enhanced functionality.",
-                "Executing comprehensive end-to-end testing for each task, guaranteeing the seamless delivery of code to production with 0 defects.",
-                "Deployed defect resolution processes, reducing user-reported issues by 30%, elevating product quality.",
-                "Redesigned customer dashboard by 100%, implementing new templates aligned with Figma designs, resulting in a 25% increase in user engagement.",
-                "Added a new smartwatch journey by developing new widgets from the ground up within the micro-frontend architecture.",
-                "Resolving application issues promptly to guarantee seamless functionality, ensuring uninterrupted user experience and overall system stability through effective support and troubleshooting",
-                "Streamlining task delivery in agile environment and achieving timely completion within 2-week sprint cycles for enhanced productivity."
+                "Developing and maintaining UI components for an e-commerce website to improve the overall user experience.",
+                "Redesigned the entire customer dashboard by implementing new templates aligned with Figma designs and providing an improved and fresh experience for end users.",
+                "Integrated React Storybook into the legacy codebase, helping product owners / scrum masters manage UI changes with respect to production using JIRA ticket naming conventions.",
+                "Collaborating with the backend team to understand the logic behind API responses for resolving production defects and develop new UI functionalities according to business needs.",
+                "Worked with the mobile application team to improve existing code and adding new screens for additional functionalities for end users.",
+                "Implementing and managing states using redux toolkit for efficient data flow and easier future debugging.",
+                "Improving and writing React JS components in a modular and reusable fashion to optimize the application and facilitate easier debugging."
             ]
         },
         {
             id: 1,
             summary: [
                 "Led a feature for real-time error filtering in user-provided Excel inputs, reduced human errors by 90%, and enhanced system accuracy for improved user experience.",
-                "Addressed client needs by integrating 2 new user journeys, enhancing the monolithic single-page app functionality.",
+                "Improving and adding new functionalities to both the UI and Backend as per business requirements.",
                 "Optimized Python-based Machine Learning algorithms, reducing processing time by 35% for enhanced efficiency.",
                 "Solved codebase complexity by introducing Higher Order Components (HOCs), improving reusability, and simplifying debugging.",
                 "Direct communication with client, gathering requirements, providing updates, and addressing their queries and concerns daily.",
