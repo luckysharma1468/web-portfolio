@@ -13,7 +13,7 @@ export default function AboutSection() {
         <a
             className="btn resume-button mt-2 px-4"
             role='button'
-            href="https://drive.google.com/file/d/16J_zc5vqQq2MaYYsVrLXpYwxAZPw5y3a/view?usp=drive_link"
+            href="https://drive.google.com/file/d/14xqh_2f3auC3YSvoHbnFjYM_QIJEcXYO/view?usp=sharing"
             target="_blank"
             download="Prashant Sharma Resume"
         >
